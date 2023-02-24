@@ -1,0 +1,1 @@
+package com.gleasondev.spring6restmvc.services;import com.gleasondev.spring6restmvc.model.Beer;import java.util.UUID;public interface BeerService {    Beer getBeerById(UUID id);}
