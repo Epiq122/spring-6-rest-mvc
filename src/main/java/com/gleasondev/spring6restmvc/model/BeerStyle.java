@@ -1,0 +1,1 @@
+package com.gleasondev.spring6restmvc.model;public class BeerStyle {}
